@@ -13,7 +13,7 @@
   "env": {
      "BOT_TOKEN": {
       "description": "Add your own bot token. Get token from botfather",
-      "value": ""
+      "value": "Harshith Mutyala"
     }
    },
    "buildpacks": [
